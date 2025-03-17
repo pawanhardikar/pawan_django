@@ -1,0 +1,39 @@
+{
+  "template": "https://github.com/cookiecutter/cookiecutter-django",
+  "commit": "aa5308e82a51d433735a9f155a216965170c0e02",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Pawan Django",
+      "project_slug": "pawan_django",
+      "description": "Behold My Awesome Project!",
+      "author_name": "Pawan Hardikar",
+      "domain_name": "example.com",
+      "email": "pawanhardikar@gmail.com",
+      "version": "0.1.0",
+      "open_source_license": "GPLv3",
+      "username_type": "email",
+      "timezone": "UTC",
+      "windows": "y",
+      "editor": "VS Code",
+      "use_docker": "y",
+      "postgresql_version": "16",
+      "cloud_provider": "Azure",
+      "mail_service": "Mailgun",
+      "use_async": "n",
+      "use_drf": "n",
+      "frontend_pipeline": "None",
+      "use_celery": "n",
+      "use_mailpit": "n",
+      "use_sentry": "n",
+      "use_whitenoise": "n",
+      "use_heroku": "n",
+      "ci_tool": "Github",
+      "keep_local_envs_in_vcs": "y",
+      "debug": "y",
+      "_template": "https://github.com/cookiecutter/cookiecutter-django",
+      "_commit": "aa5308e82a51d433735a9f155a216965170c0e02"
+    }
+  },
+  "directory": null
+}
