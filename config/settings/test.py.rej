@@ -1,0 +1,10 @@
+diff a/config/settings/test.py b/config/settings/test.py	(rejected hunks)
+@@ -11,7 +11,7 @@ from .base import env
+ # https://docs.djangoproject.com/en/dev/ref/settings/#secret-key
+ SECRET_KEY = env(
+     "DJANGO_SECRET_KEY",
+-    default="ozyjw0cYP7ATu8NJTeioWYjSJKzG5gvPD7Zdne4RTI7hYGKErS2kzLSJk7R1yktm",
++    default="0RoLRsEM44TEm8i6gSLWc1bgOqsrtaL0XE2KDO0qtBe575OvsHRSN1pYUyLBpiai",
+ )
+ # https://docs.djangoproject.com/en/dev/ref/settings/#test-runner
+ TEST_RUNNER = "django.test.runner.DiscoverRunner"

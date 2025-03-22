@@ -1,0 +1,10 @@
+diff a/config/settings/local.py b/config/settings/local.py	(rejected hunks)
+@@ -11,7 +11,7 @@ DEBUG = True
+ # https://docs.djangoproject.com/en/dev/ref/settings/#secret-key
+ SECRET_KEY = env(
+     "DJANGO_SECRET_KEY",
+-    default="NsnL8jDECuA3hZHxaUfcIKZ0knImcv36BvAdzSMwfQOpIUBH60ZfY4VutaOeMehP",
++    default="x5B02zJ6sIOC7MGMfsZStkSTSGG7LVed6NRHnerIk29Pvg4cquIYFj34zUezI501",
+ )
+ # https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
+ ALLOWED_HOSTS = ["localhost", "0.0.0.0", "127.0.0.1"]  # noqa: S104
